@@ -1,0 +1,38 @@
+img{
+    width: 150px;
+    height:150px;
+}
+
+html,body,center{
+    background-color:lightskyblue;
+}
+
+.carousel-inner{
+    background-color: lightskyblue;
+}
+
+.header{
+    color: white;
+    font-family: 'Yeon Sung';
+    font-size: 45px;
+    letter-spacing: 10px;
+    margin-top: 20px;
+}
+
+.description{
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 25px;
+}
+
+#logout{
+    width: 80px;
+    border-radius: 15px;
+    margin-left: 1325px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+button{
+    background-color: lightskyblue;
+}
